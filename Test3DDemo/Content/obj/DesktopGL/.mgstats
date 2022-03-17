@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/skaan/Projects/Test3DDemo/Test3DDemo/Content/MonoCube.dae","/Users/skaan/Projects/Test3DDemo/Test3DDemo/Content/bin/DesktopGL/MonoCube.xnb","ModelProcessor","ModelContent",5762,3448,1.260643
+"/Users/skaan/Projects/Test3DDemo/Test3DDemo/Content/MonoCubeTexture.png","/Users/skaan/Projects/Test3DDemo/Test3DDemo/Content/bin/DesktopGL/MonoCubeTexture.xnb","TextureProcessor","Texture2DContent",286178,4194389,0.104239

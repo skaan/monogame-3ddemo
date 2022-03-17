@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aw+9HNjOCNDdhJge+vT+C3YlxPekvJRzyC7j5sMgxOvJD3zZiLQr93EkRnm86N2ZTlVix/RkruWtk4krisYIRA==",
+  "success": true,
+  "projectFilePath": "/Users/skaan/Projects/Test3DDemo/Test3DDemo/Test3DDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/skaan/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/skaan/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

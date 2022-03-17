@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{823990DC-12CA-497A-93CA-5BBF4BF44205}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test3DDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test3DDemo/Program.cs">
+    <Files>
+      <File FileName="Test3DDemo/Game1.cs" Line="48" Column="1" />
+      <File FileName="Test3DDemo/Program.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test3DDemo" expanded="True">
+            <Node name="Test3DDemo" expanded="True">
+              <Node name="Content" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
